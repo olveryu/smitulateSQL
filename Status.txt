@@ -1,0 +1,3 @@
+Database "grades" created.
+(CREATE DATABASE grades)
+
